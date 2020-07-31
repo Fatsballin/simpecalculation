@@ -1,1 +1,1 @@
-# simpecalculation
+# simplecalculation
